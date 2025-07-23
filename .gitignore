@@ -137,11 +137,3 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
-
-SSL_CRT_FILE=ssl-localhost/localhost.crt
-SSL_KEY_FILE=ssl-localhost/localhost.key
-HTTPS=true
-REACT_APP_AUTH0_DOMAIN=dev-hv7g61akuh4vyglo.jp.auth0.com
-REACT_APP_AUTH0_CLIENT_ID=UVde83yS8FLJNZvriDKI896WQ3DlDAYq
-REACT_APP_API=https://localhost:8443/api
-#REACT_APP_AUTH0_AUDIENCE=https://localhost:8443/api
